@@ -1,0 +1,6 @@
+test
+coverage
+
+.*
+gulpfile.js
+README.md
